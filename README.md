@@ -98,6 +98,7 @@
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
@@ -115,6 +116,7 @@
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 ## String
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
