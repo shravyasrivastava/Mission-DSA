@@ -94,6 +94,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -104,6 +105,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -112,6 +114,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -135,5 +138,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
