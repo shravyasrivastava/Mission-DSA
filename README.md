@@ -94,13 +94,16 @@
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 <!---LeetCode Topics End-->
