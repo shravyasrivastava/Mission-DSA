@@ -96,6 +96,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -119,8 +121,13 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 <!---LeetCode Topics End-->
