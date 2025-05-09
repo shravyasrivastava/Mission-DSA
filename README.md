@@ -91,4 +91,16 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Tree
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 <!---LeetCode Topics End-->
