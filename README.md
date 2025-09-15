@@ -133,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
