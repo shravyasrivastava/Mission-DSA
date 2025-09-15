@@ -26,11 +26,13 @@
 | [0015-3sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
