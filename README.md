@@ -20,6 +20,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
@@ -159,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
