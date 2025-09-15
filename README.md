@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0007-reverse-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
