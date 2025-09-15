@@ -28,6 +28,7 @@
 | [0018-4sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -227,4 +229,8 @@
 | [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
