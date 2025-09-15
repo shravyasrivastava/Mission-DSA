@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
