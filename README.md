@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
@@ -97,6 +98,7 @@
 | [0012-integer-to-roman](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -174,6 +176,7 @@
 | [0020-valid-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
