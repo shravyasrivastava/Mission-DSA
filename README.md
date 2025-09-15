@@ -146,6 +146,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -186,8 +187,10 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
