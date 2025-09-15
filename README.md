@@ -79,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -150,6 +151,7 @@
 | [0006-zigzag-conversion](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -177,6 +179,7 @@
 | [0002-add-two-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0012-integer-to-roman) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
