@@ -169,6 +169,7 @@
 | [0013-roman-to-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -220,4 +222,5 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
