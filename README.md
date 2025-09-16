@@ -18,6 +18,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Quickselect
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Greedy
 |  |
 | ------- |
