@@ -194,6 +194,7 @@
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
@@ -255,6 +256,7 @@
 | [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0072-edit-distance) |
 ## String Matching
 |  |
 | ------- |
