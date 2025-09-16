@@ -193,6 +193,7 @@
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0071-simplify-path) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
