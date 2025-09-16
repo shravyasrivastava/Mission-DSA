@@ -228,6 +228,7 @@
 | [0029-divide-two-integers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -251,6 +252,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
 ## String Matching
 |  |
 | ------- |
@@ -265,4 +267,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
