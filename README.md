@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0031-next-permutation) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
@@ -281,4 +283,5 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
