@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0031-next-permutation) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
