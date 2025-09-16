@@ -189,6 +189,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
@@ -222,6 +223,7 @@
 | [0012-integer-to-roman](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -253,4 +255,9 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
