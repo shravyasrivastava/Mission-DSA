@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0069-sqrtx) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
@@ -226,6 +227,7 @@
 | [0013-roman-to-integer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
