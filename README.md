@@ -15,6 +15,7 @@
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -35,6 +36,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0015-3sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
