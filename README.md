@@ -96,6 +96,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
@@ -113,6 +114,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
@@ -205,6 +207,7 @@
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
