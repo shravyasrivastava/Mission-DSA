@@ -16,6 +16,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -216,6 +217,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -280,6 +282,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
