@@ -21,6 +21,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +46,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
@@ -88,6 +90,7 @@
 | [0016-3sum-closest](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
