@@ -20,6 +20,7 @@
 | [0079-word-search](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -284,6 +286,7 @@
 | [0022-generate-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
 ## String Matching
 |  |
 | ------- |
@@ -309,4 +312,9 @@
 | [0073-set-matrix-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
