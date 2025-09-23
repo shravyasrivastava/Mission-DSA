@@ -170,6 +170,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -200,6 +202,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -259,6 +262,7 @@
 | [0020-valid-parentheses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
