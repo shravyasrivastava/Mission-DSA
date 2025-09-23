@@ -49,6 +49,7 @@
 | [0086-partition-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0165-compare-version-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0079-word-search](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0091-decode-ways) |
+| [0165-compare-version-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
