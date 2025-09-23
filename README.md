@@ -60,12 +60,14 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
@@ -249,6 +253,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
