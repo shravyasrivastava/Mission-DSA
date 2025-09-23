@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -255,6 +257,7 @@
 | [0089-gray-code](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -267,6 +270,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0669-trim-a-binary-search-tree) |
@@ -318,6 +322,7 @@
 | [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## String Matching
 |  |
 | ------- |
