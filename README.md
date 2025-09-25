@@ -29,6 +29,7 @@
 | [0118-pascals-triangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -420,6 +421,7 @@
 | [0118-pascals-triangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String Matching
 |  |
