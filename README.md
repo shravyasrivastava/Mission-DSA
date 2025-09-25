@@ -112,6 +112,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Quickselect
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -245,6 +247,7 @@
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -282,6 +285,7 @@
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String
 |  |
@@ -350,6 +354,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
