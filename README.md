@@ -33,6 +33,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -249,6 +250,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
@@ -384,6 +386,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Math
 |  |
@@ -468,6 +471,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -476,4 +480,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
