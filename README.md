@@ -40,6 +40,7 @@
 | [0137-single-number-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -185,6 +186,7 @@
 | [0141-linked-list-cycle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
@@ -451,6 +453,7 @@
 | [0070-climbing-stairs](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
@@ -553,4 +556,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
