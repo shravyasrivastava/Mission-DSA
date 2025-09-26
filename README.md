@@ -66,6 +66,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
@@ -87,6 +88,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
@@ -170,6 +172,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
