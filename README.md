@@ -84,6 +84,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
@@ -164,6 +165,7 @@
 | [0127-word-ladder](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
