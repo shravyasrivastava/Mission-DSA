@@ -415,6 +415,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0155-min-stack) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -470,6 +471,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0155-min-stack) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
