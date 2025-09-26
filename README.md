@@ -92,6 +92,7 @@
 | [0141-linked-list-cycle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
@@ -447,6 +449,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -539,4 +542,8 @@
 | ------- |
 | [0139-word-break](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
