@@ -44,6 +44,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -223,6 +224,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
