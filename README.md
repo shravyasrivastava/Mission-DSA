@@ -76,6 +76,7 @@
 | [0143-reorder-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 ## Linked List
@@ -102,6 +103,7 @@
 | [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
