@@ -38,6 +38,7 @@
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -61,6 +62,7 @@
 | [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0088-merge-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -176,6 +179,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search
@@ -185,6 +189,7 @@
 | [0069-sqrtx](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
