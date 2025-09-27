@@ -53,6 +53,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -474,6 +475,7 @@
 | [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -581,6 +583,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 ## Radix Sort
 |  |
 | ------- |
