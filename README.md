@@ -487,6 +487,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
