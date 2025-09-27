@@ -49,6 +49,7 @@
 | [0164-maximum-gap](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -541,6 +542,7 @@
 | [0139-word-break](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0174-dungeon-game) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String Matching
 |  |
@@ -575,6 +577,7 @@
 | [0079-word-search](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0174-dungeon-game) |
 ## Monotonic Stack
 |  |
 | ------- |
