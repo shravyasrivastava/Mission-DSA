@@ -47,6 +47,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +82,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 ## Linked List
 |  |
@@ -234,6 +236,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
