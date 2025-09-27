@@ -613,4 +613,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
