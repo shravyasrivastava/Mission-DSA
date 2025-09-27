@@ -278,6 +278,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
@@ -354,6 +355,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
@@ -435,6 +437,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -445,6 +448,7 @@
 | [0099-recover-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
@@ -495,6 +499,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -601,4 +606,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
