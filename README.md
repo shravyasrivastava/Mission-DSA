@@ -127,6 +127,7 @@
 | [0148-sort-list](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -578,6 +579,7 @@
 | [0137-single-number-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
