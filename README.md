@@ -514,6 +514,7 @@
 | [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/3336-water-bottles-ii) |
 ## Design
 |  |
 | ------- |
@@ -588,6 +589,7 @@
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/3336-water-bottles-ii) |
 ## Memoization
 |  |
 | ------- |
