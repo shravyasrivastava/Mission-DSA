@@ -165,6 +165,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Quickselect
@@ -220,6 +221,7 @@
 | [0187-repeated-dna-sequences](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Bucket Sort
 |  |
@@ -303,6 +305,7 @@
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -339,6 +342,7 @@
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -383,6 +387,7 @@
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -493,6 +498,7 @@
 | [0133-clone-graph](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
