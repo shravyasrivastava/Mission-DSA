@@ -339,6 +339,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -448,6 +449,7 @@
 | [0131-palindrome-partitioning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [0133-clone-graph](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
+| [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -630,6 +633,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0133-clone-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 ## Trie
 |  |
 | ------- |
