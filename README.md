@@ -63,6 +63,7 @@
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Two Pointers
@@ -342,6 +343,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -501,6 +503,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
+| [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -619,6 +622,7 @@
 | [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -629,6 +633,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
