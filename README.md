@@ -61,6 +61,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
 | [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
@@ -345,6 +346,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
@@ -510,6 +512,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -631,6 +634,7 @@
 | [0130-surrounded-regions](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
@@ -694,4 +698,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0187-repeated-dna-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
