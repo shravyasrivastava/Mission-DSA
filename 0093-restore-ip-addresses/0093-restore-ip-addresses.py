@@ -1,22 +1,27 @@
 class Solution:
-    def restoreIpAddresses(self, s: str) -> List[str]:
-        ans=[]
-        def dfs(start:int,path:list[int])->None:
-            if len(path)==4 and start==len(s):
-                ans.append(path[0]+'.'+path[1]+'.'+path[2]+'.'+path[3])
+    def restoreIpAddresses(self, s: str):
+        res = []
+
+        def backtrack(start, path):
+            # If we already have 4 parts
+            if len(path) == 4:
+                # If all string is used, it's valid
+                if start == len(s):
+                    res.append(".".join(path))
                 return
-            if len(path)==4 or start==len(s):
-                return
-            for length in range(1,4):
-                if start+length>len(s):
-                    return
-                if length>1 and s[start]=='0':
-                    return
-                num=s[start:start+length]
-                if int(num)>255:
-                    return
-                dfs(start+length,path+[num])
-        dfs(0,[])
-        return ans
-            
-        
+
+            # Try all possible segment lengths (1 to 3)
+            for length in range(1, 4):
+                if start + length > len(s):
+                    break
+
+                segment = s[start:start+length]
+
+                # Skip invalid segments
+                if (segment.startswith('0') and len(segment) > 1) or int(segment) > 255:
+                    continue
+
+                backtrack(start + length, path + [segment])
+
+        backtrack(0, [])
+        return res
