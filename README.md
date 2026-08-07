@@ -167,6 +167,7 @@
 | [0169-majority-element](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
@@ -224,6 +225,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -443,6 +445,7 @@
 | [0171-excel-sheet-column-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
