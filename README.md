@@ -459,6 +459,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
@@ -556,6 +557,7 @@
 | [0171-excel-sheet-column-number](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0830-largest-triangle-area) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1642-water-bottles) |
@@ -634,6 +636,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/3336-water-bottles-ii) |
 ## Memoization
