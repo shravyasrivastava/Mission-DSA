@@ -357,6 +357,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0975-range-sum-of-bst) |
@@ -477,6 +478,7 @@
 | [0131-palindrome-partitioning](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 ## Stack
 |  |
@@ -531,6 +533,7 @@
 | [0200-number-of-islands](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0813-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shravyasrivastava/Mission-DSA/tree/master/1020-number-of-enclaves) |
@@ -724,4 +727,12 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/shravyasrivastava/Mission-DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
